@@ -43,6 +43,6 @@ Talk to me about:
 
 ---
 
-> ## <p align="center">Have no fear of perfection, U'ill never reach it.</p>
+>## <p align="center">I dream my coding and I code my dream. And it works without any bug</p>
 
-_<p align="center">🎯 Terget is an addiction </p>_
+_<p align="center">🎯 Have no fear of perfection, You'll never reach it</p>_
