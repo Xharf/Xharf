@@ -35,7 +35,11 @@ Talk to me about:
 
 - 💬 Ask me about anything and everything, i wish i can answer it
 - 🔔 Subscribe : [Shazi awaludin](https://www.youtube.com/channel/UCYtjFW_nToIL2furg1gcwdg)
-- 🌱 Fun fact : First tweet of google's is a binary format and if it translated to ascii, it give "I'm feeling lucky" <blockquote class="twitter-tweet"><p lang="und" dir="ltr">I&#39;m 01100110 01100101 01100101 01101100 01101001 01101110 01100111 00100000 01101100 01110101 01100011 01101011 01111001 00001010</p>&mdash; Google (@Google) <a href="https://twitter.com/Google/status/1251523388?ref_src=twsrc%5Etfw">February 26, 2009</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+- 🌱 Fun fact : First tweet of google's is a binary format and if it translated to ascii, it give "I'm feeling lucky"
+
+> I'm 01100110 01100101 01100101 01101100 01101001 01101110 01100111 00100000 01101100 01110101 01100011 01101011 01111001 00001010
+> 
+> — Google (@Google) [February 26, 2009](https://twitter.com/Google/status/1251523388?ref_src=twsrc%5Etfw)
 
 ---
 
