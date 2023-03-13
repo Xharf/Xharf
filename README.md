@@ -12,8 +12,10 @@ _shazi awaludin_
 
 I am Shazi Awaludin 😺. I am from Yogyakarta,Indonesia ( 🇮🇩 ). I am currently an Informatics student at UPN "Veteran" Yogyakarta 💻.
 
+- ✨ Expert Front-end + React Dev on Dicoding Academy [Check it out](https://www.dicoding.com/certificates/N9ZO4KVD8ZG5)
+- ☁️ Google Associate Cloud Engineer Certified [Check it out](https://www.credential.net/5589fd42-8193-4c00-95e3-4fe2d358529c?key=3a2cd1360e7a926a247cb469971a6297cbfe2d94d9c8a099d4bf614cdefd59ed)
 - 🧐 Interested in Back-end Web Development and QC engineering.
-- 💼 Intermediate Back-end Web Developer at ITC UPNVY.
+- 💼 Intermediate Back-end Web and Developer at ITC UPNVY.
 - 📚 Reading more about how computer works and how data can be comunicated securely
 - 👾 Being a lab assistant in Informatics UPNVY.
 
@@ -25,10 +27,11 @@ I am Shazi Awaludin 😺. I am from Yogyakarta,Indonesia ( 🇮🇩 ). I am curr
 Talk to me about:
 
 - Back-end web development using **Laravel, NodeJS**
+- Front-end web development using **ReactJS**
 - Making for **Relational Databases**
 - Creating calable cloud architecture using **AWS Cloud** or **Google Cloud Platform**
 - Basic algorithm using **C** or **C++**
-- Automatic testing using **Katalon**
+- Automatic testing using **Katalon, Cypress**
 
 ---
 
