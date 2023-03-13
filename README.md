@@ -19,7 +19,7 @@ I am Shazi Awaludin 😺. I am from Yogyakarta,Indonesia ( 🇮🇩 ). I am curr
 - 📚 Reading more about how computer works and how data can be comunicated securely
 - 👾 Being a lab assistant in Informatics UPNVY.
 
-![Shazi awaludin github stats](https://github-readme-stats.vercel.app/api?username=xharf)
+![Shazi awaludin github stats](https://github-readme-stats.vercel.app/api?username=xharf&show_icons=true&bg_color=45,#d16ba5,#c777b9,#ba83ca,#aa8fd8,#9a9ae1,#8aa7ec,#79b3f4,#69bff8,#52cffe,#41dfff,#46eefa,#5ffbf1)
 ---
 
 # ⚡ **Technologies**
