@@ -1,6 +1,6 @@
 # It's Me, Shazi Awaludin 👋
 
-_shazi awaludin_
+[_shazi awaludin_](https://shaziawaludin.vercel.app/)
 
 ---
 
