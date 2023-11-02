@@ -1,4 +1,4 @@
-# It's Me, Xharf 👋
+# It's Me, Shazi Awaludin 👋
 
 _shazi awaludin_
 
@@ -10,17 +10,14 @@ _shazi awaludin_
 
 ---
 
-I am Shazi Awaludin 😺. I am from Yogyakarta,Indonesia ( 🇮🇩 ). I am currently an Informatics student at UPN "Veteran" Yogyakarta 💻.
+I am Shazi Awaludin 😺. I am from Yogyakarta,Indonesia ( 🇮🇩 ). I am currently graduated from Informatics student at UPN "Veteran" Yogyakarta 💻.
 
 - ✨ Expert Front-end + React Dev on Dicoding Academy [Check it out](https://www.dicoding.com/certificates/N9ZO4KVD8ZG5)
 - ☁️ Google Associate Cloud Engineer Certified [Check it out](https://www.credential.net/5589fd42-8193-4c00-95e3-4fe2d358529c?key=3a2cd1360e7a926a247cb469971a6297cbfe2d94d9c8a099d4bf614cdefd59ed)
-- 🧐 Interested in Back-end Web Development and QC engineering.
-- 💼 Intermediate Back-end Web and Developer at ITC UPNVY.
-- 📚 Reading more about how computer works and how data can be comunicated securely
+- 🧐 Interested in delivering beautiful, efficient, and without any defect software.
+- 📚 Reading more about how computer works and how data can be comunicated securely.
 - 👾 Being a lab assistant in Informatics UPNVY.
-
-![Shazi awaludin github stats](https://github-readme-stats.vercel.app/api?username=xharf&show_icons=true&bg_color=45,#d16ba5,#c777b9,#ba83ca,#aa8fd8,#9a9ae1,#8aa7ec,#79b3f4,#69bff8,#52cffe,#41dfff,#46eefa,#5ffbf1)
----
+- 🏆 Member of one of the 15 best projects in Bangkit Academy 2022
 
 # ⚡ **Technologies**
 
@@ -31,7 +28,7 @@ Talk to me about:
 - Making for **Relational Databases**
 - Creating calable cloud architecture using **AWS Cloud** or **Google Cloud Platform**
 - Basic algorithm using **C** or **C++**
-- Automatic testing using **Katalon, Cypress**
+- Automatic testing using **Katalon, Cypress, Puppeteer**
 
 ---
 
@@ -47,6 +44,6 @@ Talk to me about:
 
 ---
 
->## <p align="center">I dream my coding and I code my dream. And it works without any bug</p>
+>## <p align="center">I dream my code and I code my dream. And it works without any bug</p>
 
 _<p align="center">🎯 Have no fear of perfection, You'll never reach it</p>_
