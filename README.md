@@ -4,7 +4,7 @@ _shazi awaludin_
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://id.linkedin.com/in/shazi-awaludin-a7b90a191)](https://id.linkedin.com/in/shazi-awaludin-a7b90a191)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/id/shazi-awaludin)](https://www.linkedin.com/in/shazi-awaludin)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:123190123@student.upnyk.ac.id)](mailto:123190213@student.upnyk.ac.id)
 [![YouTube](https://img.shields.io/badge/Shazi%20Awaludin-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCYtjFW_nToIL2furg1gcwdg)](https://www.youtube.com/channel/UCYtjFW_nToIL2furg1gcwdg)
 
